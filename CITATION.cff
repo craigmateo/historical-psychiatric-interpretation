@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Hölderlin Psychiatry Companion"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Frayne
+    given-names: Craig
+
+repository-code: "https://github.com/craigmateo/holderlin-psychiatry-companion"
+
+license: MIT
+
+abstract: >
+  Companion repository for research on Hölderlin, psychiatric
+  interpretation, and the history and philosophy of medicine.
+  Includes research data, bibliographic resources, timelines,
+  and reproducible analyses supporting the associated paper.

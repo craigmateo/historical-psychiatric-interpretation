@@ -1,0 +1,26 @@
+﻿id,user_id,user_name,source_id,source_name,source_kind,relationship,strength,notes
+SU001,D001,Georg Friedrich Carl Müller,S011,Müller medical Gutachten / personal examination,primary_document,produced_from,direct,Müller's 1805 assessment derives from his personal examination and official Gutachten.
+SU002,D002,J. H. F. von Autenrieth,S015,Autenrieth clinic records,primary_document,produced_from,direct,Diagnosis and treatment interpretation based on sustained institutional observation.
+SU003,D002,J. H. F. von Autenrieth,S016,Autenrieth prescription book,primary_document,documented_in,direct,Prescription records document treatment during institutionalization.
+SU004,D003,Wilhelm Waiblinger,S018,Zimmer years visitor accounts and observations,eyewitness_evidence,based_on,direct,"Waiblinger's literary portrait drew on personal visits, conversations, and recollections."
+SU005,D004,Wilhelm Lange,D003,Wilhelm Waiblinger,earlier_interpretation,uses,explicit,Waiblinger's memoir is listed among Lange's principal sources.
+SU006,D004,Wilhelm Lange,,Published letters,primary_sources_published,uses,explicit,The research document identifies published letters as a principal source but does not identify individual letters here.
+SU007,D004,Wilhelm Lange,,Poems,literary_works,uses,explicit,The research document identifies poems as a principal source without specifying individual works.
+SU008,D004,Wilhelm Lange,,Nineteenth-century biographies,secondary_sources,uses,explicit,Individual biographies are not specified in the diagnostic summary.
+SU009,D005,Karl Jaspers,D004,Wilhelm Lange,earlier_interpretation,uses,explicit,Lange is explicitly listed among Jaspers's principal sources.
+SU010,D005,Karl Jaspers,D003,Wilhelm Waiblinger,earlier_interpretation,uses,explicit,Waiblinger is explicitly listed among Jaspers's principal sources.
+SU011,D005,Karl Jaspers,,Published correspondence,primary_sources_published,uses,explicit,Individual correspondence items are not specified in the diagnostic summary.
+SU012,D005,Karl Jaspers,,Poems,literary_works,uses,explicit,Individual poems are not specified in the diagnostic summary.
+SU013,D006,Uwe Henrik Peters,S011,Müller medical Gutachten,primary_document,uses,explicit,Müller's report is explicitly listed among Peters's sources.
+SU014,D006,Uwe Henrik Peters,D002,J. H. F. von Autenrieth,earlier_medical_interpretation,uses,explicit,Autenrieth is explicitly listed among Peters's sources; the summary does not identify a specific publication.
+SU015,D006,Uwe Henrik Peters,D003,Wilhelm Waiblinger,earlier_interpretation,uses,explicit,Waiblinger is explicitly listed among Peters's sources.
+SU016,D006,Uwe Henrik Peters,,Published editions of letters and poems,primary_sources_published,uses,explicit,Individual editions and works are not specified in the diagnostic summary.
+SU017,D006,Uwe Henrik Peters,,Twentieth-century psychiatric literature,secondary_psychiatric_literature,uses,explicit,The summary identifies the category but not individual works.
+SU018,D007,Pierre Bertaux,S012,Sinclair correspondence,primary_document,uses,explicit,Sinclair documents are explicitly identified as part of Bertaux's archival research.
+SU019,D007,Pierre Bertaux,S010,Sinclair treason investigation court records,primary_document,uses,explicit,Legal records and political history are identified as principal evidence.
+SU020,D007,Pierre Bertaux,,Correspondence,primary_sources,uses,explicit,The summary does not identify every item of correspondence.
+SU021,D008,Recent psychiatric literature,D003,Wilhelm Waiblinger,earlier_interpretation,often_uses,aggregate,Waiblinger is identified among sources used by recent psychiatric literature.
+SU022,D008,Recent psychiatric literature,S011,Müller medical Gutachten,primary_document,often_uses,aggregate,Müller's report is identified among sources used in recent psychiatric literature.
+SU023,D008,Recent psychiatric literature,,Earlier psychiatric literature,secondary_psychiatric_literature,often_uses,aggregate,The document characterizes recent psychiatry as strongly reliant on earlier psychiatric literature.
+SU024,D008,Recent psychiatric literature,,Published biographies,secondary_sources,often_uses,aggregate,Published biographies are identified as a source category.
+SU025,D008,Recent psychiatric literature,,Selected letters,primary_sources_published,often_uses,aggregate,The diagnostic summary does not specify which letters.

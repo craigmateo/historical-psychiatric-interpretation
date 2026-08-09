@@ -1,0 +1,9 @@
+﻿id,evidence_category,examples,time_period,reliability,what_it_can_tell_us,limitations
+E001,Personal letters,Köstlin; Luise Nast; family correspondence,1784–1802,Very High,Self-description; emotions; beliefs,Subjective and rhetorical
+E002,Literary works,Hyperion; poems; Empedocles,Entire career,High,Intellectual and poetic development,Not straightforward autobiographical evidence
+E003,Contemporary observations,Sinclair; Zimmer; Kerner; visitors,1790s–1843,High,Behaviour witnessed by others,Influenced by personal perspective
+E004,Government records,Treason investigation; guardianship files; sovereign decree,1805–1807,Very High,Legal actions and administrative decisions,Concerned with governance rather than diagnosis
+E005,Medical documents,Müller's report; Autenrieth's records; prescription book,1805–1807,Very High,Contemporary medical observations and treatments,Embedded within early nineteenth-century medical theory
+E006,Financial and probate records,Estate records; inheritance documents,1807–1843,Very High,Material circumstances and legal status,Reveal little directly about mental state
+E007,Later memoirs,Recollections by acquaintances,After 1807,Moderate,Additional anecdotes,Vulnerable to memory distortion
+E008,Modern psychiatric studies,Twentieth- and twenty-first-century scholarship,1900–present,Variable,Diagnostic interpretations,Retrospective and dependent on limited historical evidence

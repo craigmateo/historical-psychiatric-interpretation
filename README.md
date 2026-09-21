@@ -8,7 +8,7 @@ Companion repository for the paper:
 
 [![Watch the project overview](https://img.youtube.com/vi/XceInbKGoqA/maxresdefault.jpg)](https://youtu.be/XceInbKGoqA)
 
-Watch the video for an introduction to the project and its goals.
+Watch the video for presentation of research results.
 
 ## Overview
 

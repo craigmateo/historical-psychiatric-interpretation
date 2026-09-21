@@ -6,7 +6,7 @@ Companion repository for the paper:
 
 ## Video: Conference Presentation
 
-[![Watch the project overview](https://img.youtube.com/vi/XceInbKGoqA/maxresdefault.jpg](https://youtu.be/XceInbKGoqA?si=JfcDCL_0bagKefR5)
+[![Watch the project overview](https://img.youtube.com/vi/XceInbKGoqA/maxresdefault.jpg)](https://youtu.be/XceInbKGoqA)
 
 Watch the video for an introduction to the project and its goals.
 

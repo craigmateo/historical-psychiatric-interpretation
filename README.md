@@ -4,6 +4,12 @@ Companion repository for the paper:
 
 > **Hölderlin and the Problem of Psychiatric Explanation: A Case Study in Historical Interpretation**
 
+## Video: Conference Presentation
+
+[![Watch the project overview](https://img.youtube.com/vi/XceInbKGoqA/maxresdefault.jpg)](https://youtu.be/XceInbKGoqA)
+
+Watch the video for presentation of research results.
+
 ## Overview
 
 This repository contains the research materials, datasets, timelines, bibliographic resources, and reproducible analyses supporting the accompanying paper.

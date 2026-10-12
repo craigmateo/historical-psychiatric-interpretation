@@ -78,6 +78,23 @@ Planned additions include:
 - Supplementary figures and appendices
 - Exploratory corpus analysis of psychiatric diagnostic language
 
+## Conference Presentation
+
+An earlier version of this research was presented at the **13th International Philosophy of Medicine Roundtable Conference**, hosted by the University of Pittsburgh's Institute for Bioethics.
+
+**Presentation:** *Hölderlin and the Problem of Psychiatric Explanation: A Case Study in Historical Interpretation*  
+**Presenter:** Craig Frayne  
+**Presentation date:** September 15, 2026  
+**Conference dates:** September 15–18, 2026  
+**Host institution:** University of Pittsburgh, Institute for Bioethics  
+**Format:** Online presentation
+
+[Official conference announcement](https://bioethics.pitt.edu/2026/08/26/13th-international-philosophy-of-medicine-roundtable-conference/)
+
+The conference presentation introduced the project's central question: how psychiatric explanations acquire interpretive authority over human lives. Using the historical reception of Friedrich Hölderlin, it examined how psychiatric diagnoses can become inherited explanatory frameworks that shape subsequent interpretations of biography, literature, and historical evidence.
+
+The accompanying paper remains in development, and the repository documents the continuing research.
+
 ## Citation
 
 If you use materials from this repository, please cite both the repository and the associated publication (once available).
